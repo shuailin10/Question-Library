@@ -25,10 +25,30 @@ Ans:
 3.1.2 信号发放细胞发放的信号在空间上会随着距离的变长而衰减
       可以利用这一特点以及信号接收细胞中不同元件对于信号分子敏感程度的不同形成ring pattern! 不过这需要认为控制细胞在整个培养基上大致呈现出均匀分布。
       也可以利用这一特点用对信号分子敏感程度不同的菌株形成不同size的ring pattern
+      
+
 3.2 Cooperation
+3.2.1 影响两个菌株最终是否能够成功合作的因素有很多，并不存在一种'universal cooperator'
+
+Q: 3.1.1.1 影响两个菌株成功合作的因素有些什么？以及其影响大致是什么？
+Ans: 1. 如果两者所需的东西对方只需要付出很少的代价就能够满足的话（比如说对该物质需求量少，该物质易扩散，合成所需的能量少），合作很容易出现
+     2. 两个菌株overproduce自己所能合成的东西对于合作的形成是很有帮助的
+
+3.2.2 Chemotax24: A strain that can express asparaginaseII constitutively which can converts Asn to Asp. Then this strain also have Asp 
+      receptor… PAG sensing strain can also be formed by pac that can convert PAG to PAA and PAA receptor. One produce Asn (chemotax
+      to PAG) and one produce PAG (chemotax to Asn). 
+      
+Q: 3.1.2.1 Why only when both attractants exist, chemotaxis formed ????
+
+3.2.3 L-strain (cannot synthesize enough leucine) became an apparent oversupplier of isoleucine upon coculture with the I-population(43). 
+      But their synthesis of isoleucine synthase is not upregulated???
+
 
 3.3 Antagonistic interaction
+
 3.4 Spatial organization
 3.5 Applications
-4.群体感应不同研究领域中的研究问题是否存在一些规律，如果有，是什么？
+
+4.群体感应不同研究领域中的研究问题是否存在一些规律——即普遍关心的问题，如果有，是什么？
 5.Synthetic microbial consortia中的有哪些比较典型的基因元件？（与上述交流机制相关的或者无关的）
+5.1 XynB (xylanase) and endoglucanase
