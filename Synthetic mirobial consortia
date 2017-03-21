@@ -4,7 +4,7 @@ Ans: (1)A system consisted of multiple microbial populations, which is modulated
      can make multiple population some kind of new features that cannot exist with just a single population.
 Q: 1.1 Consortia中群体内部或者群体之间会通过什么样的信号进行交流？
 Ans: (1)QS signals
-	   (2)Essential metabolites
+     (2)Essential metabolites
      (3)Secreted enzymes
 Q: 1.2 通过上述这些信号交流的分子机制是什么？
 Ans: (1)QS signals：一个细菌合成AHL分子（通过一种特殊的酶），另一个细菌则合成可以感受这种AHL分子的受体，AHL分子结合这些受体之后这个可以行使转录
@@ -33,7 +33,8 @@ Ans:
 Q: 3.1.1.1 影响两个菌株成功合作的因素有些什么？以及其影响大致是什么？
 Ans: 1. 如果两者所需的东西对方只需要付出很少的代价就能够满足的话（比如说对该物质需求量少，该物质易扩散，合成所需的能量少），合作很容易出现
      2. 两个菌株overproduce自己所能合成的东西对于合作的形成是很有帮助的
-
+     3. 两个菌种一定数量的起始浓度是有必要的，不过这个需求会随着合作时间的延长而减少
+     
 3.2.2 Chemotax24: A strain that can express asparaginaseII constitutively which can converts Asn to Asp. Then this strain also have Asp 
       receptor… PAG sensing strain can also be formed by pac that can convert PAG to PAA and PAA receptor. One produce Asn (chemotax
       to PAG) and one produce PAG (chemotax to Asn). 
@@ -43,6 +44,7 @@ Q: 3.1.2.1 Why only when both attractants exist, chemotaxis formed ????
 3.2.3 L-strain (cannot synthesize enough leucine) became an apparent oversupplier of isoleucine upon coculture with the I-population(43). 
       But their synthesis of isoleucine synthase is not upregulated???
 
+Q: 3.2.3.1 Why L strain oversupply when coculture with I strain??? Their synthesis of isoleucine synthase is not upregulated???
 
 3.3 Antagonistic interaction
 3.3.1 Construction of predator and prey relationship and realize their oscillation
@@ -53,11 +55,42 @@ Q: 3.1.2.1 Why only when both attractants exist, chemotaxis formed ????
       
       
 3.4 Spatial organization
-3.4.1 
+3.4.1 Av fixes gaseous N2 into aa using a molybdenum-requiring nitrogenase; BI degrades penicillin G using β-lactamase enzymes; 
+      and Pc generates a carbon source using cellulase.
+      When they are well-mixed, the consortium did not grow. However, when the three populations are physically separated, 
+      but are allowed to communicate, all grow well.(40)
+      
+Q: 3.4.1.1 Why they do not grow well when they are well-mixed. They were cultured in what kind of environment???
+
+3.4.2 Restrict bacterial inside a droplet…AA secreted and exchanged within the same droplet could not diffuse across the droplet membrane
+3.4.3 Using spatial structure to degrade both PCP and Hg well enough by consortium.
+3.4.4 ○ YFP can grow healthy but cannot form biofilm, CFP acts reversely.
+      ○ They can form a layered structure biofilm. And this structure formation depends on the aggregation of two strains. When they are 
+      dispersed during structure formation, they cannot form a good biofilm.
 
 3.5 Applications
 
 Q: 4.群体感应不同研究领域中的研究问题是否存在一些规律——即普遍关心的问题，如果有，是什么？
-Q: 5.Synthetic microbial consortia中的有哪些比较典型的基因元件？（与上述交流机制相关的或者无关的）
-Ans: 5.1 XynB (xylanase) and endoglucanase
+Ans: 
+4.1. Cooperation 
+4.1.1 什么因素能够促进合作的最终形成？
+4.1.2 利用空间效应与合作去降解有毒物质/生产想要的物质
 
+4.2 Antagonistic interaction
+4.2.1 空间关系/拮抗相互作用对于保持种群中restrained strain的保留产生的影响
+
+4.3 Spatial effect
+4.3.1 空间效应对于合作关系/拮抗关系形成/稳定的影响
+4.3.2 空间效应/拮抗相互作用对于保持种群中restrained strain的保留产生的影响
+4.3.3 Pattern formation
+4.3.4 利用空间效应与合作去降解有毒物质/生产想要的物质
+4.3.4 生物膜的构建及其影响因素
+
+Q: 5.Synthetic microbial consortia中的有哪些比较典型的基因元件/技术？（与上述交流机制相关的或者无关的）
+Ans: 5.1 XynB (xylanase) and endoglucanase：即两种分泌到细胞外并且将不可利用的营养物质分解成可以利用的营养物质
+     5.2 Chemotax 
+     5.3 Restrict bacterial inside a droplet…AA secreted and exchanged within the same droplet could not diffuse across the droplet membrane
+     5.4 Separate chambers which allowed passage of the QS signals but not cells.(35)
+     5.5 Antagonistic interaction
+     5.6 Overexpression of essential molecules can also promote cooperation
+     
