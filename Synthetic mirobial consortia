@@ -1,24 +1,24 @@
-1.什么是synthetic microbial consortia？
+Q: 1.什么是synthetic microbial consortia？
 Ans: (1)A system consisted of multiple microbial populations, which is modulated artificially by synthetic circuit. 
      (2)Also, there are some kind of informational communication between each microbial population or inside a population, which 
      can make multiple population some kind of new features that cannot exist with just a single population.
-1.1 Consortia中群体内部或者群体之间会通过什么样的信号进行交流？
+Q: 1.1 Consortia中群体内部或者群体之间会通过什么样的信号进行交流？
 Ans: (1)QS signals
 	   (2)Essential metabolites
      (3)Secreted enzymes
-1.2 通过上述这些信号交流的分子机制是什么？
+Q: 1.2 通过上述这些信号交流的分子机制是什么？
 Ans: (1)QS signals：一个细菌合成AHL分子（通过一种特殊的酶），另一个细菌则合成可以感受这种AHL分子的受体，AHL分子结合这些受体之后这个可以行使转录
         因子的功能促进某些基因的转录
      (2)Essential metabolites：两个细菌分别不能合成两种不同基础代谢物，在这种情况下两个细菌能够通过过量合成自己能合成的代谢物并分泌到环境中达成
         与对方的合作从而完成两者的共存
      (3)Secreted enzymes：两种细菌分别合成不同的酶到环境中，分别完成一些功能，如果分别去分解不同的营养物共二者使用，则二者也会达成合作
-2.群体感应大致有哪些研究领域？
+Q: 2.群体感应大致有哪些研究领域？
 Ans: 1.Undirectional communication
      2.Cooperation
      3.Antagonistic interaction
      4.Spatial organization
      5.Applications
-3.群体感应的每个领域中有哪些比较有趣的研究成果？
+Q: 3.群体感应的每个领域中有哪些比较有趣的研究成果？
 Ans: 
 3.1 Undirectional communication
 3.1.1 空间距离和GFP脉冲强度的关系研究
@@ -45,10 +45,19 @@ Q: 3.1.2.1 Why only when both attractants exist, chemotaxis formed ????
 
 
 3.3 Antagonistic interaction
-
+3.3.1 Construction of predator and prey relationship and realize their oscillation
+3.3.2 空间效应（包括起始时的菌株的摆放位置，使用液体培养基或者固体培养基...）和菌株的移动能力对于存在拮抗关系的两个菌株的影响...
+     （结论似乎有些矛盾）
+3.3.3 It can be used for favoring restrained growth by rock-paper-scissors and spatially structured and the interactions occurred 
+      locally (migration only between local space).
+      
+      
 3.4 Spatial organization
+3.4.1 
+
 3.5 Applications
 
-4.群体感应不同研究领域中的研究问题是否存在一些规律——即普遍关心的问题，如果有，是什么？
-5.Synthetic microbial consortia中的有哪些比较典型的基因元件？（与上述交流机制相关的或者无关的）
-5.1 XynB (xylanase) and endoglucanase
+Q: 4.群体感应不同研究领域中的研究问题是否存在一些规律——即普遍关心的问题，如果有，是什么？
+Q: 5.Synthetic microbial consortia中的有哪些比较典型的基因元件？（与上述交流机制相关的或者无关的）
+Ans: 5.1 XynB (xylanase) and endoglucanase
+
