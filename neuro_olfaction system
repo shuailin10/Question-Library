@@ -1,0 +1,92 @@
+main arguments:
+-pathway of olfaction
+-quantifying the complexity of system(# of oders, receptors, receptor genes, intermediate neurons, projections...)
+
+question left(that I'm interested in):
+1-why not constructing order space by objective oder feature?
+--because in the end, "oder receptors" are just chemical reactions. Can't we characterize order by its chemical properties??
+2-genetic categorization of receptors
+2.1 mechanistically: how is genetical categorization of receptors functionally meaningful?
+eg: gene<->chemical reaction sites?
+2.2 why are these genes chosen? why this number of genes?
+hypo1: making sure "important oders" can be distinguished? [what are *important* oders?] optimal info encoding(best precision, least redundance)?
+hypo2: basic space then transform...
+3-similarly, is there optimal encoding for the first several steps of transformation?
+from more abstract level, how would you design a system for order encoding?
+general encoding principles?
+4-behaviourally, what is "recognize a smell"?
+how would you able to distinguish there's "one smell" or mixture of smells?
+is there "smell invariance"? (more about object recognition. seems like this is not a major problem for olfaction?)
+are all smells connect with emotion? other non-neural response? can you characterize smells by their elicited response?
+
+==="textbook" questions===
+1-What is olfaction?
+1.1-Conceptually, what is olfaction? [concept def]
+1.1.1-What are the parallel concepts? Contradictory concepts? What is not olfaction? (same level) [paraconcept]
+hyper concept: chemical sense.
+other chemical senses: gustation, nociception
+1.1.2-What constitutes olfaction? (lower level) [subconcepts]
+sensory process: stimulus->receptors->neural networks(->behaviour)?
+sensory computation: concentration sensing & discrimination; signal comparison(=>memory); adaptation(learning); 
+1.1.2.1 How to characterize olfactory stimulus?
+olfactory space: seems infinite dimension of space! no simple way to characterize smells.
+=>from chemical features of molecules?(Keller et al. 2017, Science)
+=>if can't characterize by physical/chemical features, go to neural straight
+
+
+//1.1.3-What factors will influence xxx? [factors]
+//1.1.4-(Based on above) What are the criterions of the operational definition of xxx? [def criterion]
+1.1.5-(Based on above) What are the criterions of the neural substrate of xxx? [def criterion]
+1.2-Empirically, what are the experimental paradigm to study olfaction?
+1.2.1 what bio system shall we study? [model system]
+start from bacteria; C-elegang &  fly also works
+1.2.1.1 Why bacteria?can you define olfaction in bacteria at all? [def criterion]
+--yes, chemotaxis. it includes: (chemical) concentration sensing & discrimination; signal comparison(=>memory); adaptation(learning); (ref to 1.1.2)
+1.2.1.2 why fly?
+big advantage over mouse: receptors are exposed and easy to patch
+
+1.3-What are noticeable (behavioral) phenomenons about olfaction?[behav signature]
+-for human: related with major depression; family relation; mating.
+
+//below we actually talk about 2&3 together. yet since it's lecture, no testing of relatiosni are emphasized. most are just conclusions ("should be believed as true")
+2-What neural substrates are we looking at? (What level are we studying?)
+olfaction is a huge system so we talk about all levels.
+2.1 start coarse: what's the pathway? What are key processes?
+receptors in olfactory epithelium-> [glomeruli->mitral cells] olfactory bulbs->cortex
+Then we look into each process(& connection)
+2.2 receptors
+2.2.1 basic numbers & categorization?
+--where are they?
+--in human: 350 gens, 5-10k glomeruli; mouse, 1e3 genes, 1e6 receptor cells, 2~3e3 glomeruli.
+--how to categorize? by genetics! 350 genes ~ 350 receptors
+2.2.2 activity: what does olfactory receptors respond to?
+qualitative: different oders, different responses. however, it's not 1 to 1 mapping!
+quantitatively, how oder concentration change affects activity?( "like, tuning curve")
+populational tuning curve on oder concentration
+
+
+2.3 glomerulus
+synaptic area of between olf nerves terminal & dentrites of mitral (&periglomerular and tufted cells)
+2.3.1 basic number
+many(?) receptors of same gene -> 1 glomerulus -> 20-40 mitral cells(with diff tuning!)
+2.3.2 activity
+2.3.2.1 populational organization?
+space distribution of glomeruli: conserved between individuals & kinda between rat&mice. (Soucy et al. 2009)
+2.3.2.2 computationally, signal transformation?
+a-convergence of receptors to glomerulus, then mitral cells -=> amplification gain about 250x!
+(HTK: by measuring temporal course of spikes, PN turns out fire ealier than OSN--than measured OSN. )
+??OSN, PN = ?
+b-from glomerulus to mitral: synapse with both excitatory & inhibitory receptor
+the overall analogy between primary visual & olfactory processing
+
+
+2.4 mitral cell
+2.3.1 basic number?
+1 glomerulus -> 20-40 mitral cells
+2.3.2 projection: to where? cortex!
+--where in cortex? everywhere! 
+--Is it same for all glomerulus? yes! almost random connection.
+2.3.3 computationally, if it's trully random connection, how to compute useful info?
+2.3.3.1 why might this random connection be good?
+- assumption: better discrimination. (put shirts close to CD so that large and small shirts won't be confounded with each other)
+-yet how to generalize the representation? When you smell sth new, how do you say it's "similiar to smell A more than B?"
