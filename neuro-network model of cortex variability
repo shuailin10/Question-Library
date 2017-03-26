@@ -1,0 +1,38 @@
+#from a seminar by Brent Doiron titled "The mechanics of cortical variability"
+
+subject of study: single neuron spiking rates & std. e.g.: trial by trial variability.
+
+1-phenomenon
+1) bigger SE in higher level cortex
+2) bigger var —bigger covariance(not smaller mean) when higher attention level
+=>study how attention affects variability
+
+2-how is the variability implemented?
+2.1-define variation
+correlation between 2 neurons -- which 2 neurons? 
+(1) can do dimension reduction
+=>1st eigenvector of covar mat 
+(2) neurons in same region VS between regions?
+these two are opposite! between-region correlation actually increase with attention, while in-region correlation decrease(=more variability)
+(3) temporal window for correlation?
+first 200ms.
+
+2.2-how to conceptualize this attention VS cortical variability relation?
+attention ~->Hidden variable(“brain state") ~-> neural response R
+
+theoretical model: [E/I network] model
+(sub q net: how to work on [E/I network] model? (1) what are essential model parameters (2) what are necessary properties of good network model?(sanity check) (3) specific propertes on topic)
+2.2.1 network setting
+2.2.1.1 how many networks; local / global network?
+—between-region model? H->R should be independent in each level
+2.2.1.2 E/I balance: total number; temporal dynamics(e.g. time constant); mean/variance?
+2.2.2 network activity sanity checks
+a-check how the system scales up of num of neurons affect mean & var 
+b-check if the network balances
+c-EI balance
+2.2.3 topic specific settings & activity
+settings: a hidden variable for each local network—an internally generated variability
+activity output: increased covariance between regions & decreased within region when attention increases.
+
+
+(3-Why’s variability? Functional advantage of that? — how’s 2 related to 3?)
