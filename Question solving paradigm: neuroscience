@@ -1,7 +1,8 @@
-Basic question: What is the neural substrate of xxx?
+Basic question: What is the neural substrate/mechanism of xxx?
 Question category: "What"
 Alternative ways to ask: How is xxx implemented in neural system?
 (origin of confusion: 1-the “neural substrate” is not a well-defined object/concept, and is likely to involve a series of objects; thus it makes more sense to ask “how is xxx implemented”, i.e. ask about the process rather than specifying a certain level of answer, say, “which neuron/which brain area implements xxx”)
+(mechanism = substrate + process)
 
 Solving paradigms(or, structure of subquestions):
 
