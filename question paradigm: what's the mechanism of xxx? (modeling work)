@@ -1,0 +1,16 @@
+mechanism = using a well-established theoretical framework to explain a specific phenomenon
+framework eg: excitation/inhibition neural network; Bayesian optimization model; etc.
+
+Q1 What is the phenomenon to be explained?
+Q1.1 definition?
+Q1.1.1 paraconcept
+Q1.1.2 subconcept
+Q1.1.3 related factors
+Q1.2 what has been explained, what has not?(sharper the test of model, the better)
+Q1.2.1 What are other competing theories?
+
+Q2 How to used xxx framework to explain the phenomenon?
+Q2.1 what are basic model parameters/components? How to set that?
+Q2.2 what are necessary properties of a good model?(sanity check) --see if it contradicts with other phenomenon
+Q2.3 specific propertes of model that adapt to better explain the phenomenon? -- see if it can really explain the phenomenon of question
+Q2.4 does the model generate new predictions that can be tested independently?
