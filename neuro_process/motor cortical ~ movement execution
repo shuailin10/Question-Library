@@ -1,0 +1,46 @@
+job talk by Andrew Miri
+Q: role of motor cortex in motor execution?
+
+1 two contradictory views
+1-1 only learning, not execution
+behav evidence: bilateral leison doesn't affect learnt movement
+1-2 execution also matters
+neural evidence: cortical firing => muscle 
+
+Q: when & how is cortex involved?
+hypothesis: (1) time scale matters (2) movement should be complicated enough, esp with precision
+1 animal and paradigms?
+mouse, precision pull(hard...)/treadmill walking(cortex not needed for behaviour)
+2 intervention of cortical function?
+2.1 injecting blockers-> behav?
+2.2 optogenetically activate/inhibit interneurons in motor cortex -> muscle EMG?
+-different muscles?
+-for differen tasks?
+--diff latency of muscle interuption after shedding light --so what does that mean???
+simply speaking: 2 mechanisms of cortical interaction
+3. mechanism(neural pathway from cortex -> muscle)?
+hypo A. different populations controling different tasks
+A.1 concrete hypothesis?
+bias of populations or two distinct population
+A.2 test hypo?
+how to characterize population? 
+--here: scaling of neural firing / muscle firing for each single neuron
+A.3 result?
+not like that 
+
+hypo B. different population temporal correlation (instead of overall change of firing)
+B.1 concrete hypothesis?
+correlation during the whole time; can be orthogonal trajectories for differently correlated neurons(like, PC 1 for task1 & PC 1 for task2)
+B.2 test hypo?
+correlation matrix during two behaviors
+B.3 result?
+yes, very different correlation
+B.4 how to that interpret that result?
+-is it just bc random sample? --check with real randomly correlated population. turns out neural data are more random than that...
+-seems to say the connectivity has changed dramatically when you switch behav task?
+
+Further questions:
+-how generalizable of these 2 behaviour paradigms? Why are they so different? Are all behaviours very different?
+-circuit mechanism: why does certain correlation patterns results in different latency?
+-what are other hypothesis?
+
