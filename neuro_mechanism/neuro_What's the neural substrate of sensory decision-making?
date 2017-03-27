@@ -12,9 +12,11 @@ motion = decision output(through movement: pointing/speaking)
 
 evidence -> decision variable -> termination rule (sequential analysis framework?)
 
-1.1.3-contraint by? [factors]
-
-reward, difficulty, urgency, etc.
+1.1.3-affected by? [factors]
+1.1.3.1-[internal factors]
+attention, risk preference, knowledge
+1.1.3.2-[external factors]
+reward, difficulty, urgency(time constraint), etc.
 
 1.1.4-operational def criterion? [def criterion]
 
