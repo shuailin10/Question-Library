@@ -1,0 +1,5 @@
+on each topic, there're:
+(1) vertically, procceding of logic toward the final goal(=solve the question), represented by increased number(1.1,1.2,1.3...)
+(2) horizontally, divergence of each goal, represented by sub points(1, 1.1, 1.1.1, 1.1.1.1)
+事实上，我们说的“question paradigm”是指vertical structure：对问题1，如何延展出子问题1.1，1.2，1.3；之所以再有horizontal structure，是因为对每个子问题，可能无法一步解决，又需要找到它对应的paradigm。
+所以每个节点，只要有次级问题，都相当于开启了一个question paradigm。我们每个“网络”实际上包括了很多的paradigm，可以有很多可以复用的结构

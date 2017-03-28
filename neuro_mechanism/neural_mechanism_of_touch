@@ -1,0 +1,100 @@
+what is touch?
+1.1 conceptual def
+…
+1.2 operational def
+1.2.1 animal system
+mouse usually(only mammals help??)
+
+
+2-neural substrate?
+2.1 coarse pathway: 
+terminal receptors -> dorsal root ganglion -> spinal cord
+differentiated by hairy / glabrous(non-hairy) skin!
+
+# A: globrous skin
+2.2 receptors
+2.2.1 basic stats? where are they?
+(Basic stats missed)
+on skin! (even around the hair,  still in skin levels)
+2.2.2 categorization/profile? -- by shape of receptos => functions
+- by how deep the receptors are
+# shallow surface
+[Meissner's corpules] mainly located in glabrous skins; rapidly adpating, aka response to "ON" and a bit "OFF" touch, or change of touch; (yes, correspond to my experience! Sometimes I don't ) => sensitive to surface texture when you move on it.
+[Merkel cells] also in hairy cells, derma-epiderma junction. slowly adaptive, fire during whole process of touch
+# deep in skin
+[Pacinian corpuscle] response to change of speed of touching--again, ~ ON and OFF response. But much higher frequency than Meissner's! (why need that? because touching is giving feedback to motion! e.g. controling a pencil to write)
+
+#interesting concept: perception VS touch
+either "press" or "tap" is an interpretation!
+
+2.2.3 quantitative characterization of functions
+2.2.3.1 how large the receptive field is?
+around palm, much larger(thus much coarser); finger tips smaller
+2.2.4 mechanism: why do they have different adaptation frequency?
+different channel activation/inactivation properties
+
+2.3.DRGs: cell property & function
+2.3.1 basic figures? categorization?
+figures? not known
+2.3.2 genetics profile
+differen in size, gene expression(~different somatisensory receptors) and skin innervation
+2.3.3 connection
+2.3.3.1 anatomy of single nerves & conductance
+3 groups of cutaneous nerve;
+bigger axons ~ more myelin ~ bigger conduction velocity
+2.3.3.2 development of connection
+needs neurotrophins expressed by skin/muscle to help DRGs find correct terminal points
+2.3.4 functional activity(how's sensory transduction happen?)
+general process: (mechanical receptor) force->mechanical tranducer->action potential
+step1, sense the force
+a-what's the response? AP or EPSP/IPSP?
+epsp on nerves
+but also firing rate corresponds to stimulus intensity
+b-what affects the response?
+stronger the bigger, of course
+b.1-further differentiating possible forms of "touches"
+press, brush, or freeze(not touch the skin, just the hairs)
+b.2-further differentiating possible receptors: different receptors on different skin regions(2.2.2)
+c-what's the mechanism transforming force to channel openning?
+piezo channels.
+Yet what about different receptors? Is it different piezos or different network connectivity/amplification/etc?
+
+step 2 use the sense:  to perceive objects held in the hand!
+Eg stim 1: Braille letters
+
+--
+B: hairy skin
+2.2 receptor: different types
+around the hair / blabla 
+2.3 fibers: 3 type again.
+single fiber has divergent receptor connections
+2.4 Dorsal R Ganglion
+2.5 spinal cord
+several ascending pathways
+2.6 cortex
+2.6.1 anatomy?
+2.6.1.1 subregions and their connection 
+--as expected, there's hierachical connections, as in visual system
+2.6.1.2 subregions comparison
+size comparison: 
+topological mapping
+2.6.1.3 layers of cortex
+there's vertical columns
+
+2.6.2 function?
+2.6.2.1 receptive field
+different areas have different sizes of RF
+2.6.2.2 emergence of such RF?
+combination of excitatory & inhibitory RF
+2.6.2.3 functional selectivity?
+direction selectivity in area 2
+2.6.2.4 learning & plasticity?
+2.6.2.4.1 operational maniplation?
+-leision the nerve=>depriving sensory input
+-training of one hand but not the other
+-amputees with "phantom hand" illusion
+2.6.2.4.2 neural change
+-remapping of RF
+-intensity of activity
+2.6.2.5 other higher-level factors that affects neural processing?
+factors: attention(gain); learning/adaptation; goal of task
