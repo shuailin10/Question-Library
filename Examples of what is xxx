@@ -11,17 +11,32 @@ the protease-secreting cells.
       (Distinguish division of labour from cases in which phenotypic variation has arisen from self-interested traits, such as 
       diversification to exploit different niches, or when one phenotype evolves to exploit another.)
 1.1.1-What are the parallel concepts? Contradictory concepts? What is not xxx? (same level) [paraconcept]
-      Phenotypic variation (The behavior of one kind of phenotype may not benifit another one)
+      (1)Phenotypic variation (The behavior of one kind of phenotype may not benifit another one), but just for self-benifit, not cooperate.
+      (2)Our definition also excludes cases in which cells can be divided between different lineages, whereby some lineages exhibit 
+      cooperative behaviour and others do not carry out, or carry out less of, the cooperative tasks. This division of labour do not 
+      provide an "inclusive fitness" benefit to all of the individuals involved.
 1.1.2-What constitutes xxx?/What are the components of xxx? (lower level) [subconcepts]
 1.1.3-What factors will influence xxx? [factors]
+      (1)The relative returns from different tasks could vary depending on the physiological condition or size of the cell
+      (2)Existence of Cheater
 1.1.4-(Based on above) What are the criterions of the operational definition of xxx? [def criterion]
+      (1) It must be shown that there is phenotypic variation, with different individuals specializing to carry out different tasks.
+      (2) Strains that carry out the trait can be grown better in monocultures than in mixed cultures with genetically manipulated strains
+      that carry out less of, or do not carry out, the trait. (Thus, pheotype variation cannot be caused by genetic variation)
+      Tips: It is necessary to test whether a trait is cooperative in the environmental conditions under which that trait evolved, or as near
+      to it as possible.
 1.1.5-(Based on above) What are the criterions of the neural substrate of xxx? [def criterion]
 
 1.2-Why division of labor is favored by natural selection?
 1.2.1-Why do not choose other stratigies, such as all cells carrying out that trait at a lower rate?
+      Two conditions must be met:
+      (1)There is an efficiency benefit from having different individuals carry out different tasks 
+      Assuming linear costs per unit invested into a task, this requires that the slope of the relationship between the proportion of 
+      resources that a cell allocates to a task and the fitness return is accelerating. (e.g: Division of labor exist in Anabaena cylindrica)
+      (2)The reproductive interests of the different individuals are aligned, such that cooperation is favoured
 1.2.2-Why cheaters do not break this kind of division of labor by not produce but just absorb nutrient?
-1.2.3-Why is division of labour favoured by natural selection in certain environments, for certain tasks, but not others?
-
+1.2.3-Why is division of labour favoured by natural selection in certain environments, for certain tasks, but not others? (e.g: Division of 
+labor exist in Anabaena cylindrica, a kind of cyanobacteria, but not in Trichodesmium erythraeum, another kind of cyanobacteria.)
 1.3-What is the meaning of research it?
       A better understanding of multicellular formation.
       A better understanding of pathogen infection.
