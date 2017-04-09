@@ -1,0 +1,18 @@
+Q: Can animals generalize what they learn?
+Q1: Behavioural paradigm?
+--1) see generalization curve of cue property(say, conditioned stimulus be a tone of 80Hz, then test reaction to 50~130Hz tones) 2) combine two cues
+Q2: Computational model?
+--1) an intermediate layer of stimulus representation => single training stimuli will activate several nodes in the intermediate layer thus generalization occurs[everything ensured by this nodes connection]
+
+Q: How do you decide what to generalization(what are "similar stimulus", psychologically?)
+Q1: How do you establish the computational algorithm?
+--Given pairwise similarity, how do you place each item into a space that you can define their "psychological distance"?
+(Roger Shepard 1987)
+--A1: multi-dimensional scaling 
+Q1.1: Clarification: What are input and output of the algorithm?
+--input: May use pure "similarity response" or more complicated probes like conditioning reponse
+--output: multi-dimensional space of stimuli
+Q1.2: What can we learn from fitted parameters?
+--dimensionality of psychological space. Say, tones are best represented by a 3D spiral, whereas color is a 2D ring.
+--metrics of stimulus: L(1) norm ("city-block metrics") is better fitted than Eucledian distanc
+

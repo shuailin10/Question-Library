@@ -1,0 +1,16 @@
+
+Q1 If it's because of random error during replication, what should we see?
+Q1.1 compare cancer rate in different tissues, and tissue cells' reproduction property?
+A-More times of stem cell division, more likely to have cancer
+
+Q2 How to estimate the proportion of each kind of mutation?
+Q2.1 Correlation with other conditions?
+-Heredity: just see correlation of familial mutation
+-Environment: just see correlation of same env(same area? same life habbit? there're so many ways to characterize that)
+-Replication: correlation of tissue / age? 
+---not really correlation, but percentage of variance it can explain...like, weight in linear model? then there's cross term as well, how to account for that?
+
+Q2.2 What data do we have for estimation?
+-human sequencing data. 
+- epidemiological data
+

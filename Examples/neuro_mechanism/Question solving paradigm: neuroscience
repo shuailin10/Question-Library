@@ -1,0 +1,82 @@
+Basic question: What is the neural substrate/mechanism of xxx?
+Question category: "What"
+Alternative ways to ask: How is xxx implemented in neural system?
+(origin of confusion: 1-the “neural substrate” is not a well-defined object/concept, and is likely to involve a series of objects; thus it makes more sense to ask “how is xxx implemented”, i.e. ask about the process rather than specifying a certain level of answer, say, “which neuron/which brain area implements xxx”)
+(mechanism = substrate + process)
+
+Solving paradigms(or, structure of subquestions):
+
+1-What is xxx?
+1.1-Conceptually, what is xxx? [concept def]
+1.1.1-What are the parallel concepts? Contradictory concepts? What is not xxx? (same level) [paraconcept]
+1.1.2-What constitutes xxx?/What are the components of xxx? (lower level) [subconcepts]
+1.1.3-What factors will influence xxx? [factors]
+1.1.4-(Based on above) What are the criterions of the operational definition of xxx? [def criterion]
+1.1.5-(Based on above) What are the criterions of the neural substrate of xxx? [def criterion]
+
+1.2-Empirically, what are the experimental paradigm to study xxx?
+1.2.1-What animal system to study?
+1.2.1.1-What are advantages and disadvantages?
+eg: 
+-behaviorally, easy to train, can do some specific task, have some feature behaviors; 
+-biologically: easy to do genetic manipulation, simple neural system, easy to record....
+1.2.2-What behavioral paradigm?
+1.2.2.1-Is this paradigm good?
+=>compare with [def criterion]
+say, can it distinguish from other related concepts? can subcomponents of the concept being differentiated and measured separately? does that allow relevant manipulation?
+If animal paradigm: how's that different from human?
+
+2-What neural substrates are we looking at? (What level are we studying?) [structure]
+2.1 Choose your description level
+2.1.1-What scale?
+molecular change? single neuron? 
+neural population(of same location? same input/output? same neuromodulator? unsupervised clustering)?  
+nerves? 
+brain structure?
+2.1.2-unit VS connection: projection? pathway? neuromodulator?
+2.1.3-What feature of activity?
+neuron: firing rate? spike train pattern? Calcium signal level?
+connection: excitation/inhibition? how much?
+2.2 define and characterize the structure
+2.2.1 is the definition clear?
+2.2.2 basic numbers: how many? size? shape?
+2.2.3 What are the parallel structures? Input/output connection?(same level) [paraconcept]
+2.2.4 What constitutes this structure? (lower level) [subconcepts]
+2.3 What methodology do you use to measure that?
+2.3.1 What are the limitations/caveat given this chosen methodology?
+
+3-What are the relations between the neural substrate and xxx? [function]
+//Starting to talk about relation means we are forming scientific arguments. (Definitions are not arguments and not really worth arguing about in the absence of relation of definitions) Thus, the following questions should be included in the “cycle of scientific study”, i.e.: data -> theory -> test of theory reliability and revision -> predictions -> generalization
+
+3.1 Choose your description type
+different disciplines have different preference
+sensory neuroscience: tuning curve? receptive field? favorite stimuli?
+
+following ways to push one step forward(to better description)
+3.1.1 qualitative relation -> quantitative?
+3.1.2 correlational -> causal? 
+3.1.3 descriptional -> mechanistical?
+3.1.4 population/trial average -> individual difference / trial-by-trial description?
+
+3.2 Establish argument of relation
+
+
+3.3 Check the theory
+3.3.1 with data
+3.3.1.1 Is there overfitting? underfitting?
+3.3.1.2 Can the theory make new predictions?
+3.3.1.3 Is there other aspects in data that has not been explained?
+
+3.3.2 with other theories(if have)
+3.3.2.1 Is it better than alternative competing theories?
+3.3.2.2 Does it contradict to some more basic theories?
+
+3.3.3 with other levels of knowledge
+ethologically meaningful? (i.e. good for better life/survive?)
+computationally meaningful? 
+are algorithms implementable? 
+
+
+
+
+

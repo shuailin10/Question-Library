@@ -1,0 +1,15 @@
+Q: computational problem? 
+A: calculate value of your current state/a given stimuli/a given action
+
+Q: how's Rescorla-Wagner model different from TD(temporal difference) model?
+Q1: conceptually, how are they different?
+--RW doesn't consider the future state value but TD incorporates that with current reward
+Q2: how do they give different prediction?
+--TD predicts "back-up" pheonomenon: that value change would propagate to other time steps(states). 
+---yes, this has been seen in dopamine neuron!
+
+Q: Is TD a good model?
+Q1: what kinds of data can it fit?
+behavioural or neural?
+Q2: what can this model predict and has been tested? 
+one strong assumption: since the "state" is expected value at each time step---if mess up the cue-onset time!
