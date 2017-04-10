@@ -1,0 +1,37 @@
+Q1 neural circuits we are looking at?
+A olfactory receptors -> mushroom bodies -> Antennal lobes
+myQ: sounds like fruit fly! what’s different?
+
+Q1.1 more quantitative description of structure? 
+N kenyon cell ~ 4k; N projection neuron ~ 100=> divergence
+then convergence to…?? 
+
+Q1.2 functional mapping of connection?
+Yes, convergence of same kinda input.
+
+Q2 how do we model this circuit?
+Q2.1 model goal of circuit function? [set-goal]
+given odor, how positive or negative the output layer feels? 
+Especially, work on the phenomena of “preference peak shift” after exposure to negative stimuli.
+#but, how can stimuli be represented in a continuous dimension?
+
+Q2.2 how to achieve that goal? [solution]
+Q2.2.1 circuit structure?
+3 layers of neurons with different numbers and activity patterns
+between them: plastic synapses
+Q2.2.2 circuit dynamics?
+look at two parts of plasticity
+
+Q2.3 how well this model is doing? [evaluation]
+Q2.3.1 can it reproduce the computational function?
+Q2.3.2 does it provide additional understanding of the other function/ more detailed mechanism?
+Q2.3.3 does it provide novel prediction can be tested?
+Q2.3.4 does it contradict with other phenomenon?
+
+#how’s that decision represented in neuron model?
+(in fact, just ratio of neurons activated in two parts of output layers?? what does “patterning” mean?)
+(is that a distinct circuit from odor distinction?(it’s just valence judgment here)
+
+
+
+
