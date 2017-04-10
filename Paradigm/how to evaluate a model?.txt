@@ -1,0 +1,7 @@
+how well a model is doing? how to evaluate a model?
+
+Q.1 can it reproduce the computational function?
+Q.2 does it provide additional understanding of the other function/ more detailed mechanism?
+Q.3 does it provide novel prediction can be tested?
+Q.4 does it contradict with other empirical facts?
+

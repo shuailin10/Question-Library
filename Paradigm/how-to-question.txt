@@ -1,0 +1,6 @@
+e.g. how do we model a neural circuit?
+#how-to# question
+
+1 what’s the goal?[set-goal]
+2 what’s your solution?(how to achieve that goal)?[solution]
+3 how well this model is doing? [evaluation]
