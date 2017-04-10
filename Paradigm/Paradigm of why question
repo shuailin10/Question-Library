@@ -1,0 +1,33 @@
+1.Why?
+1.1 What is the mechanism of xxx?
+1.2 What is benefit for the agent?
+1.2.1 What is criterions of benefit?
+1.2.1.1 Agent?
+1.2.1.2 Benefit criterion
+1.2.2 What is the deficiency of this strategy in giving benefit?
+1.2.3 Are there any other strategy that have more benefit to the agent ?
+1.2.4 Does these other strategies better than this?
+1.2.5 Why do not use other strategy? 
+
+Examples:
+1. Why do we get a fevor？
+1.1 What is the mechanism of getting a fevor?
+
+1. Why there exists cooperation in the group of this kind of microbe?
+1.2 What is benefit for the agent?
+1.2.1 Agent?: Individual/genes of microbe.
+1.2.2 Criterion?: Evolutionary fitness.
+1.2.2 What is the deficiency of this strategy in giving benefit?: It can be cheat by cheaters.
+1.2.3 Are there any other strategy that have more benefit to the agent ?: Cheater strategy
+1.2.4 Does these other strategies better than this?: Not always. By relative recogition…
+
+Q:What is the relationship between 1.n and 1.m?
+Eg 1.1 and 1.2 are parallel questions. Namely, not all of them need to be answered? (Like if, else..)
+However, 1.2.4 and 1.2.5 have logic relationship, namely, "Yes" answer of 1.2.4 seems necessary for asking 1.2.5. Otherwise, 
+there will be infinitely loop. 1.2.5 to 1 to 1.2.5 to 1 …  
+Also, 1.2.1 must be answered at first.
+
+Answer: parallel (if else), ordered(successively/successivly+if else) , not ordered.
+
+Q: Specificity of question may influence its paradigm. Like when we ask in the microbe instead of this specific kind of microbe,
+we should ask why cooperation do not occur in other microbes? So this paradigm is not sufficient.
