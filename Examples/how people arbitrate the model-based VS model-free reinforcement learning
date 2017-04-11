@@ -1,0 +1,36 @@
+Apr 11 2017 Sam Gershman lecture neuroecon talk
+
+1 What is model-based VS model-free trade-off?
+1.1 behavior paradigms to distinguish two behavior?
+-mouse 
+-human
+1.1.1 do we have to distinguish the two behavior as with/out model? Can it just be crappy model? Can it just be they've learnt the model but won't use it? 
+--basic distinction: learning & planning(can distinguish that by explicitly training/testing of stated knowledge of system)
+--There can be so much space for better optimal strategy, and hard to constrain cost--the classic problem of infinite possiblity space...
+
+2 What are their relation? 
+-certainly they are intereplacable strategy
+2.1 how do subjects trade-off these two strategy?
+2.1.1 on trait level(populational difference)?
+patient
+age
+cognitive control/working memory
+
+2.1.2 for a given agent, how structure of task manipulates this trade-off(individual variance)?
+cognitive load => computational cost
+reward -- that's what they examien here!
+##people just love to be model-based! Because you're reducing the uncertainty of the environment and you're learning new knowledge!
+
+2.1.2.1 Given this "reward-cost" principle of trade-off, what's the optimal behavior?
+--using policy gradient to get an optimal policy to decide the trade-off parameter
+2.1.2.2 From an algorithmetic view, is this arbitration system really saving computational cost?(less operation?)
+(two kinds of cost here: 1-cost of building model; 2-cost of utilizing knowledge to make decision; 3-cost of the meta-control system)
+
+2.2 neural correlates implementing this control of trade-off parameter?
+2.2.1 using a paradigm which manipulates the arbitration more explicitly, what systems do we identify as responsible for the trade-off?
+2.2.2 looking back to old theory of striatum & dopamine neuron: are they purely model-free signal? Or do they convey sth about the arbitration?
+--yes, turns out Dopamine(measured by human blinking rate), 
+
+====
+#are these two class summarizing all possible space of human behavior/learning/choice?
+#benefit of model-based model about "reducing uncertainty" -- new predictions for behavior?
