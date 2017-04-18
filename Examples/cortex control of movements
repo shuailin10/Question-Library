@@ -1,0 +1,72 @@
+"brain is not neccessary if you can't move" -- the animal eats its own primitive brian when it stops to be able to move.
+
+1-process flow of movement
+muscle <--motoneuron(Spinal cord) <-- motor programs(modules of motor sequences?) <--cortex(vague "intention" initiates motor programs)
+
+*types of muscles*
+-Type I: slow, oxidative metabolism, long-lasting(little waste)
+-Type II: fast, aerobic & anaerobic metabolism
+
+*connection btw motoneuron ~ muscle*
+basic figures: one motoneuron, one type of muscle(but maybe multiple fibers); 
+activity: 
+1)one spike, one contraction
+2)one movement, multiple muscles! contraction && extension. Golgi tendon also involved in prohibiting extension reflex, so enables coordination.
+
+*motor programs*
+1) examples?
+lower spinal cord: protective reflexes & locomotion generator
+midbrain: breathing, chewing, eyemovements
+hypothalamus: eating&seeking for food
+cortex: facial expression, speech, etc
+
+HTK? [decerebrate model] cut the connection btw pon&midbrain, see what functions can preserve? walking, chewing, etc, meaning these programs don't really need cortex.
+[decortication model] cur connection btw diencephalon-telencephalon => complex movements okay, but not fine movements(Say, finger grasping)
+
+*connection btw cortex ~ spinal cord*
+Motor cortex(Betz Cells)->tracts(internal capsule)->Lateral Cortico-Spinal Tract
+if LCST damaged=>top motorneuron damage. Then other more primitive xx-spino tracts become dominant! (Eg: vestibulo-spino tract, importantly keeps head position&many other position=> less wabbling)
+--also worth noticing: pyramidal tract(=LCST?) receives input not only from motor cortex but also some from somaticsensory cortex!
+
+*motor cortex*
+1) subregions?(subconponent)
+besides M1(primary motor cortex), many others
+2) the overall picture:
+motor cortex ~ basil ganglia; 
+3) micro description: cytostructure
+very little granular cells, as oppposed to prefrontal which has large layer IV(granular layer)
+4) functional description: somatotopic map
+5) functional description: different level of neural substances
+5.1) signle neuron activation
+-what's the behavioural paradigm? instruction->move wraist(->given loads/pertubation)
+-what do we propose neurons can be encoding?
+movement direction/velocity(kinetics); force in movement(dynamics)
+
+>>biggest problem: what dimension of all possible representation are you in?
+
+5.2) functional descripiton: look into multiple neuron state space
+eg: movement direction & speed, different instructions result in different subspace(i.e. just firing differently for different movements...)
+Hard to predict subspace for new movement??
+
+But other predictions: state space VS movement output
+-closer to the alternative subspace, movement also more similar to the alternative instruction
+-closer to "optimal subspace", faster RT & lower fano factor(less noise)
+-can develop decoder and use that for BMI!! monkey controls artifitial arms!
+
+question:
+-how's the optimal subspace developed during the learning? 
+>>importantly, we haven't talked about learning at all!
+
+6) functional description: different level of function
+besides kinetics / dynamics...
+-output is planning(~more related with cue) or actual movement(cue-irrelavant)?
+-the sequence is mostly externally-directed(by visual cues, for eg) or internally-directed(by memory, for eg). There seems to be contrast between premotor cortex(cares only about external cue) VS supplimentary motor area(cares only abt internal cue) 
+
+
+
+**how can these description be generalized to more different tasks?
+**can you connect this with motor programs?
+
+
+
+
