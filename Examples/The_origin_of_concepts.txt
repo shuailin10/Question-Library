@@ -1,0 +1,26 @@
+my reading plan:
+-C7, core cognition and *language*
+-C8-11, how's symbolic concepts (not innate) developed from learning?
+
+Q1: how is one concept constructed? What's the process that determine conceptual content?
+myQ1.1: what are usually contained in a concept?
+myQ1.2: would you try to categorize concepts(are there different kinds of concepts?)
+myQ1.3: dynamic process of building a concept
+probably need to distinguish: 1-introduction of a new concept (or when do you feel like you need a concept?) 2-associating new materials with the concept 3-connecting concepts
+
+
+Q2: what is the "core cognition" different from both perceptual and symbolic concepts?
+Q2.1: animal examples?
+-Indigo buntings learn that the North Start indicates north by observing the rotation of sky. [seems mysterious to me...can't think of human analogy of such behavior; can't imagine the learning processes/neural mechanism] 
+-"Imprinting": the concept of mother.[what consititues a concept? 1) sensory experience -- the object you first see in your life 2) policy based on this concept(follow that guy!)
+
+Q2.2: How are they used? How will themselves change?
+
+Q3: how does a distinctive symbolic representation arise(from sensory / core representation)? First of all, is there a discontinuity and is this prposed system truely distinctive from more basic ("innate") representations? [closer to my interest of how a symbolic system is built, but I'm more considering how symbols are built from symbols...]
+Eg: natural number & rational number
+Q3.1: First of all (descriptive challenge), is there a discontinuity and is this prposed system truely distinctive from more basic ("innate") representations? [closer to my interest of how a symbolic system is built, but I'm more considering how symbols are built from symbols...]
+Q3.2: (explantory challenge) How's such system formed, what's the learning mechanism? (the author suggests bootstrapping?)
+--one proposal: intuitive theory? (is that the structure supporting new symbolic conceptformulation?)
+
+Q4: What is intuitive theory? How are they formed?
+
