@@ -2,6 +2,7 @@ my reading plan:
 -C7, core cognition and *language*
 -C8-11, how's symbolic concepts (not innate) developed from learning?
 
+##chp0: introduction
 Q1: how is one concept constructed? What's the process that determine conceptual content?
 myQ1.1: what are usually contained in a concept?
 myQ1.2: what are the different kinds of concepts? (e.g., nouns and adjs are different kinds)
