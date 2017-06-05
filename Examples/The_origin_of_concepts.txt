@@ -4,8 +4,8 @@ my reading plan:
 
 Q1: how is one concept constructed? What's the process that determine conceptual content?
 myQ1.1: what are usually contained in a concept?
-myQ1.2: would you try to categorize concepts(are there different kinds of concepts?)
-myQ1.3: dynamic process of building a concept
+myQ1.2: what are the different kinds of concepts? (e.g., nouns and adjs are different kinds)
+myQ1.3: dynamic process of building a concept, aka learning.
 probably need to distinguish: 1-introduction of a new concept (or when do you feel like you need a concept?) 2-associating new materials with the concept 3-connecting concepts
 
 
@@ -22,5 +22,5 @@ Q3.1: First of all (descriptive challenge), is there a discontinuity and is this
 Q3.2: (explantory challenge) How's such system formed, what's the learning mechanism? (the author suggests bootstrapping?)
 --one proposal: intuitive theory? (is that the structure supporting new symbolic conceptformulation?)
 
-Q4: What is intuitive theory? How are they formed?
+Q4: What is "intuitive theory"? How are they formed?
 
