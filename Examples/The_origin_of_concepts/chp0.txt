@@ -25,3 +25,16 @@ Q3.2: (explantory challenge) How's such system formed, what's the learning mecha
 
 Q4: What is "intuitive theory"? How are they formed?
 
+##chp0: introduction (Rachit)
+Q1: How are conceptual representations different from sensory representations?
+
+Q2: What is the difference between core cognition and conceptual representation?
+
+Q3: Is conspecific recognition a perceptual representation or conceptual representation?
+
+Q4: What are the exact differences between continuity and discontinuity thesis? 
+
+Q5: What exactly is quinian bootstrapping? Great explanation here - https://cogsci.stackexchange.com/questions/12224/does-anyone-know-how-to-explain-quinian-bootstrapping-process-by-carey-to-a-layp
+
+Q6: What is the difference between core cognition and intuitive theories? (Susan argues that theory building transcends core cognition).
+
