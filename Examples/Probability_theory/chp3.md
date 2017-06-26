@@ -1,6 +1,6 @@
-* Q1 Probability distribution of "urn with no replacement"?
-Q1.1 General expression of the prob distribution: h(r|N,M,n)
-Q1.1.1 intuitive interpretation for this result?
+# Q1 Probability distribution of "urn with no replacement"?
+## Q1.1 General expression of the prob distribution: h(r|N,M,n)
+### Q1.1.1 intuitive interpretation for this result?
 to simplify: not to think about independent draws -- think about overall statement
 Q1.1.2 formulate as "hypergeometric function"?
 (why it's called "hypergeometric"? -- geometric function is ...??
