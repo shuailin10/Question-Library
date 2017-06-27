@@ -1,4 +1,10 @@
 # How does children adapt their active learning strategy according to environment? ("i.e. Ecological learning")
+*my takehome*: 1 good conceptual dichotomy of questioning: hypothesis scanning and constraint seeking. 2 motivation for learning stragety: environment probability distribution(rational); 3 constraint for learning strategy: cognitive resource/effort; abstraction level; confidence in prior knowledge (do they belief in the manipulation); 
+*yet, what's the real question here?*
+(1) think of real world task: constraint seeking question is really hard and rarely asked. **When will this dichotomy really matters?** eg: when is there uniform hypothesis space at all? what are other important factors prompt people to ask constraint-seeking qs?
+--my guess: 1/ when you have no clue, yet need to really figure out the answer (like a detective)...may be parallel to the "uniform distribution" scenario. 2/ most likely 
+(2) what is actually 
+
 ## to constrain the question: what is "active learning"? what are possible strategies? how does the environment change?
 * asking question; or question selection as a subprocess
 * possible strategies: hypothesis scanning (one-by-one); constraint seeking (half-rule-out) -- quantitatively distinguish? EIG. constraint seeking is usually higher EIG, more optimal
