@@ -6,10 +6,11 @@ Derivation is easy.
 to simplify: not to think about independent draws, but think about overall statement.
 
 ### Q1.1.2 formulate this distribution as a special function?
-"hypergeometric function"
+**"hypergeometric function"**
+(this way a lot of studies in special function applies)
 > why it's called "hypergeometric"? 
 
--- geometric distribution is Bernoulli with replacement, and asks about the number X of Bernoulli trials needed to get one success
+-- geometric distribution is Bernoulli with replacement, and asks about the number X of Bernoulli trials needed to get one success. 
 
 ## Q1.2 properties for this distribution?
 ### Q1.2.1 summary stats: mean, quantiles of h?
