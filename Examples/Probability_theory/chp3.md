@@ -10,7 +10,7 @@ to simplify: not to think about independent draws, but think about overall state
 (this way a lot of studies in special function applies)
 > why it's called "hypergeometric"? 
 
--- geometric distribution is Bernoulli with replacement, and asks about the number X of Bernoulli trials needed to get one success. 
+-- geometric distribution is Bernoulli with replacement, and asks about the number X of Bernoulli trials needed to get one success. Their relation: [here](https://stats.stackexchange.com/questions/90605/why-are-the-geometric-distribution-and-hypergeometric-distribution-called-as-suc) *still don't quite get it*
 
 ## Q1.2 properties for this distribution?
 ### Q1.2.1 summary stats: mean, quantiles of h?
