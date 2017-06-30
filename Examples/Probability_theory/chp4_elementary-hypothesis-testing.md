@@ -63,6 +63,18 @@ This way, **multiple hypo test reduces to binary test**.
 ** now, go back and play with problem setting ** 
 ### when would an unexpected hypothesis be resurrected?
 problem 4.2 & 4.3, asking: general expression of threshold-unexpected probability setting? number of m to resurrect that dead hypothesis?
+**my Q**: how to form a new hypothesis? or how should that new hypothesis change according to your new data?
+(the thing is that we assume ~A = B+C+... (some limited alternative hypothesis), whereas the some really good hypothesis hasn't been considered at all. And we are not discussing how to form a good new hypothesis yet.
+
+### how to set a stop sampling criteria? how do I know if I've had enough data (info)?
+1) if evidence is as large as 20dB
+2) if the evidence for A wins evi of all other hypo for like 20dB
+
+# 4.5 & 4.6: what if consider continuous hypothesis?
+here: probability of producing bad widget, which is a continuous variable on [0,1].
+how would I do it? 1) since the likelihood is like binomial, should construct a beta prior right?
+## Can we transform the continuous problem into 
+
 
 
 
