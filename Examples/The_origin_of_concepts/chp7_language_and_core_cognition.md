@@ -10,7 +10,7 @@ I would think it as:
 Quine's doctrine of strong linguistic determinism: only after learning language. then adults have radically different representaitons.
 Compared to my 1), "language determinism" is much stronger about how stupid infants are. Eg, they may argue children don't recognize "is" (~"same"). Is that true?
 
-> general research strategy: 
+## general research strategy: 
 * find a "fundamental concept" (explicitly expressed in language grammars, for the scope of this chapter), such as singular(=1) VS mass (>1), which is not acquired at first (not a *core concept).
 * test at what age can children grasp these concepts by nonlinguistic tasks
 * test at what age can children learn the corresponding linguistic regularities.
@@ -40,7 +40,7 @@ yes! Rhesus macaques are great!
 the key seems to be let "the sets of multiple objects move as a rigid whole".
 
 okay, " acquiring the singular/plural distinction does not require Quinian bootstrapping". 
-### Q5 What is needed for the development of "concept of plural", if it's not language?
+### Q4.1 What is needed for the development of "concept of plural", if it's not language?
 (we've only denied a possibility
 my guess: enough perceptual evidence & the need to distinguish "one" v.s. "some". so...what aspect of their life has been changed??
 Carey's speculation: this distinction helps to distinguish "kind" and "instance" -- a kind includes multiple instances. 
