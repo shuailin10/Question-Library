@@ -1,0 +1,8 @@
+Quick sumary: Carey puts forth a convincing argument about innateness of object representation (specifically time continous representation of objects).
+ +Time continuity is also put forth as a conceptual representation and not simply perceptual.
+ +
+ +Q1: What does the concept of object even imply? Merely recognizing or classifying an object may just require perceptual inputs. However, inferring properties such as time continuity, coherence, boundedness, rigidity etc requires conceptual knowledge (maybe?).
+ +
+ +Q2: Is the amount if innate knowledge a species has, correlated with their intelligence? (just like length of childhood)
+ +
+ +Q3: If a neural network can learn object representation and learn to recognize objects soley from perceptual inputs, what does that imply? 
