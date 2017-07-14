@@ -1,6 +1,7 @@
 # Q1 (descriptive): what's the process of acquiring the concept of "positive number"?
 I think: (1) counting may not be natural. It's about making very precise judgement of quantity, which may not be needed in most cases, thus is not necessary to be evolved. (2) some functions supporting positive numbers may be natural. First, need to have the concept of quantity; then, basic operations such as "bigger/smaller than" [*--correspond to "set theory"? is that people's basic cognition? what about "group theory"?*].
-`` to be read back: "infants have core cognition of number: the analog magnitude and the parallel individuation systems described in chapter 4 and the set-based quantification system described in chapter 7."
+``` to be read back: "infants have core cognition of number: the analog magnitude and the parallel individuation systems described in chapter 4 and the set-based quantification system described in chapter 7."
+```
 
 ### Define continuity or discontinuity in the learning of positive number?
 + Continuity hypothesis (Gelman and Gallisel): infants have the innate ability to establish a non-verbal counting list (**shown by ...what? chp4? **). Then they only need to map those representation into their own language that expresses this numeron list. Thus, learning to count should be easy (*after children demonstrate the non-verbal counting ability?*)
@@ -11,6 +12,6 @@ I think: (1) counting may not be natural. It's about making very precise judgeme
 > In contrast, children are able to identify "one" and succeed in the tasks above if asked to distinguish "one" and anything more than one. -- so called **"one"-knowers**.
 
 ``What I don't understand (not correspondent to my intuition and no literature referred to): "...English speakers learning French do not learn the list, going through a stage where they know that it refers to number, but take “deux,” “trois,” “quatre,” and “cinq” to be roughly synonymous with each other, meaning plural or some."
-
+``
 
 # Q2 (explanatory): what's the learning mechanism that enables this acquisition?
