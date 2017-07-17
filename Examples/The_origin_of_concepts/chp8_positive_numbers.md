@@ -65,5 +65,9 @@ anthropology studies:
 key test: (a) whether children have figured out the analog magnitude mapping,(b) whether they know principles such as "lastcount" represents the magnitude, or whether they can find the set with correct number
 **conclusion**: turns out performance in these two tasks are not equal, ruling out the possiblity  that knowin gthe "analog manigtude mapping is a precursor for learning the natural number.
 
-### Hypo2: 
+### Hypo2: learn small numbers asquantifiers in language; then using counting principles to deduct larger numbers
+evidence:
+- "one/a" ah sre used equivalently for "one-knowers"
+- japanese / mandarin speakers learn "one-knowers" later than English/Russian speakers who has quantifiers to distinguish singular/ plural in grammar.
+- 1 to 4  are first learnt, in par with the number of items in working memory (how many individual "ones" are in this set)?
 
