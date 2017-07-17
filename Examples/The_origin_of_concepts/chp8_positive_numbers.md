@@ -72,3 +72,6 @@ evidence:
 => verbal quantifiers are important for acquisition of number representation
 - 1 to 4  are first learnt, in par with the number of items in working memory for parallel individualization representation (how many individual "ones" are in this set?), which may be how children initially represent the meaning of "two to four"(in contrast to an analog magnitude representation, which may not be available for children at this stage)
 
+weak counter evidence for the necessity of "numeral list" & "language quantifier": Chimpanzee learning numbers. 
+> Ai keeps making mistakes as n-knowers everytime she's introduced to a new number, whereas children seldom make such mistakes after they learn 4 (they would be able to understand the difference between N and N+1)
+
