@@ -14,6 +14,8 @@ to be read back: "infants have core cognition of number: the analog magnitude an
   
   > typical task: distinction between M and N items shown to them (eg: dots on cards), by habituation. Different from enumeration because the processing time for smaller/bigger number doesn't vary a lot, supporting a "parallel processing". -- *Chronometric studies of numerical cognition in five-month-old infants*, Wood and Spelke (2005)
 
+**conclusion 1: counting is not necessary for some number operation**
+
   Other conceptual failures of analog rep (as basis of natural number rep):
   + can't represent infinitely high magnitude (*but is this generalization ability our definition of "postive number system"?? *).
   + inexact and subject to Weber fraction considerations, thus fails to capture small numerical differences between large sets of objects
@@ -23,6 +25,8 @@ to be read back: "infants have core cognition of number: the analog magnitude an
 > Wynn's demonstration: children are able to count (with English words such as "one, two, four, six, seven..."), i.e. able to answer **"how many toys are there?"**, but unable to use numbers to: (1) take out certain number of toys (2) to choose a card with certain number of items [--in summary, instead of mapping items to number, it's **mapping number to items**]
 
 > In contrast, children are able to identify "one" and succeed in the tasks above if asked to distinguish "one" and anything more than one. -- so called **"one"-knowers**.
+
+**conclusion 2: counting is not sufficient for using natural numbers in other questions**
 
 ``What I don't understand (not correspondent to my intuition and no literature referred to): "...English speakers learning French do not learn the list, going through a stage where they know that it refers to number, but take “deux,” “trois,” “quatre,” and “cinq” to be roughly synonymous with each other, meaning plural or some."
 ``
@@ -55,7 +59,7 @@ anthropology studies:
 + able to understand a new number concept by mapping it to suitable position on the list (eg: eleven)
 
 ### Starting point of learning process?
-[learning theory] assumes that the child first learns “one, two, three, four, five ...” as a list of meaningless lexical items. This is the no numeral knower stage documented above. 
+[learning theory] assumes that the child first learns “one, two, three, four, five ...” as a list of meaningless lexical items. This is the numeral-knower stage documented above. Then what else?
 
-### Hypo 1: when children are able to map 
+### Hypo 1: when children are able to map quantities into a magnitude representation
 
