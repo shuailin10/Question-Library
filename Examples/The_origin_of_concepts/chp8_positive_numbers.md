@@ -62,4 +62,8 @@ anthropology studies:
 [learning theory] assumes that the child first learns “one, two, three, four, five ...” as a list of meaningless lexical items. This is the numeral-knower stage documented above. Then what else?
 
 ### Hypo 1: when children are able to map quantities into a magnitude representation
+key test: (a) whether children have figured out the analog magnitude mapping,(b) whether they know principles such as "lastcount" represents the magnitude, or whether they can find the set with correct number
+**conclusion**: turns out performance in these two tasks are not equal, ruling out the possiblity  that knowin gthe "analog manigtude mapping is a precursor for learning the natural number.
+
+### Hypo2: 
 
