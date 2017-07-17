@@ -69,5 +69,6 @@ key test: (a) whether children have figured out the analog magnitude mapping,(b)
 evidence:
 - "one/a" ah sre used equivalently for "one-knowers"
 - japanese / mandarin speakers learn "one-knowers" later than English/Russian speakers who has quantifiers to distinguish singular/ plural in grammar.
-- 1 to 4  are first learnt, in par with the number of items in working memory (how many individual "ones" are in this set)?
+=> verbal quantifiers are important for acquisition of number representation
+- 1 to 4  are first learnt, in par with the number of items in working memory for parallel individualization representation (how many individual "ones" are in this set?), which may be how children initially represent the meaning of "two to four"(in contrast to an analog magnitude representation, which may not be available for children at this stage)
 
