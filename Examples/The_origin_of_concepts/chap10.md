@@ -34,7 +34,7 @@ Eg: unit of different matters are different.
 
 The same thing weighs differently for different people.
 ### What are different judgements in CS1 holders make?
-**don't agree with CS2 **
+**don't agree with CS2**
 + (judge weight by vertical length; or surface area?) When a ball of soft clay being smashed to a pancake shape, kids (~5 years old) think it weights differently / has different amount of clay / takes up different amount of space. (Piaget & Inhelder 1974)
 + (judge weight by vertical length) Kids (5~6 yr old) think a vertical triangle weights less when it is turned on its side (??)
 + (judge quantity by vertical length; different measures of quantity not yet established) Kids (aged 5-6) think juice in a thinner taller glass is more, even after they've seen 3 times as much(?? How was that defined) juice is poured in the low wide glass; and some kids fail to notice the contradiction that the juice in the taller glass takes much less time to drink from. (Carey 1974)
