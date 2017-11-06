@@ -50,7 +50,7 @@ Or. Able to have a "substance" theory, i.e. Some materials have some innate prop
 --Haven't explained: "iron is heavier than cotton"; 
 
 + Kids (as young as 3) are able to distinguish weight and size and know to measure that (they know they need to hold a thing to weigh it rather than just look at the size of it, when are asked about weight related questions). (C. Smith et al 1985)
-** contradiction to the 'vertical-is-more' phenomena **, where no density change yet kids still judge differently! WHY?
+**contradiction to the 'vertical-is-more' phenomena**, where no density change yet kids still judge differently! WHY?
 
 **concepts in history of science**
 + Greeks don't think mass is a necessary entity of matter: air can have no weight but only levity
