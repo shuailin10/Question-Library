@@ -1,0 +1,8 @@
+Simple example: similar to battleship game, yet there's a teacher, which provides you partial info to help you infer.
+Testing arena: categorize children face to the corresponding emotion. Why choosing this? People don't have perfect performance in this task yet.
+
+step1 train a classification model
+* which is actually worse than the human performanace!
+step2 obtain P(data i.e. face|hypothesis i.e. category) through the classifier
+* although, i feel like you can just get it from empirical distribution
+step3 decide what examples to teach, by sort of info gain.
